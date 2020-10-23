@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="passeio.svg"
+   id="svg947"
+   version="1.1"
+   fill="none"
+   height="140"
+   width="200">
+  <metadata
+     id="metadata953">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs951" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg947"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="70"
+     inkscape:cx="100"
+     inkscape:zoom="5.8899836"
+     showgrid="false"
+     id="namedview949"
+     inkscape:window-height="1012"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <path
+     style="stroke:#fff3cd;stroke-opacity:1"
+     id="path945"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     stroke-width="4"
+     stroke="#FEC74B"
+     d="M50.5 89.5h49m0 0L89.306 74M99.5 89.5c4.5-13.667 18.9-41 40.5-41M75.496 53L63 34m12.496 19C69 56 52 71 47 83.5M75.496 53l13.81 21M63 34H53m10 0h18m8.306 40C94.5 60.5 108.3 34 133.5 34H157m-44-19h11l4.4 9M156 82.5L137.689 43m0 0H160l-6-19h-25.6m9.289 19L128.4 24M78 89.5c0 19.054-15.446 34.5-34.5 34.5C24.446 124 9 108.554 9 89.5 9 70.446 24.446 55 43.5 55 62.554 55 78 70.446 78 89.5zm-28 0a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0zm141 0c0 19.054-15.446 34.5-34.5 34.5-19.054 0-34.5-15.446-34.5-34.5 0-19.054 15.446-34.5 34.5-34.5 19.054 0 34.5 15.446 34.5 34.5zm-28 0a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z" />
+</svg>
