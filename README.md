@@ -1,4 +1,4 @@
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/basic.svg" widht="200" height="200"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/basic-ui.svg" widht="200" height="200"> 
 
 
 
