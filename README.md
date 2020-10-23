@@ -20,7 +20,7 @@
 
  $ git clone git@github.com:carlosd-ss/basic-ui.git
 
- $ cd wolfbest
+ $ cd basic-ui
  
  RUN index.html
 ```
@@ -28,14 +28,14 @@
 
 # Wolfbest
 
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/wolf.png" widht="600"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/wolf.png" widht="400"> 
 
 
 
 
 # Bikeshop
 
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/bikeshop.png" widht="600"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/bikeshop.png" widht="400"> 
 
 
 
@@ -43,7 +43,7 @@
 
 # CssBlog
 
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/cssblog.png" widht="600"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/cssblog.png" widht="400"> 
 
 
 
