@@ -69,7 +69,6 @@ img {
   justify-content: space-between;
   align-items: center;
 }
-
 .menu a {
   color: white;
 }
@@ -84,14 +83,12 @@ img {
   display: flex;
   flex-wrap: wrap;
 }
-
-.menu-nav a {
+.menu-nav ul a {
   font-size: 1.25em;
   display: block;
   padding: 10px;
 }
-
-.menu-nav a:hover {
+.menu-nav ul a:hover {
   color: #646464;
 }
 
@@ -119,12 +116,10 @@ img {
   flex: 2 1 300px;
   margin: 0 10px;
 }
-
 .sobre-info h1 {
   font-size: 3em;
   margin-bottom: 0.5em;
 }
-
 .sobre-info p {
   font-size: 1.25em;
   line-height: 1.4;
@@ -142,7 +137,6 @@ img {
   max-width: 960px;
   margin: 60px auto;
 }
-
 .produtos h1 {
   font-size: 3em;
   margin: 0 10px 60px 10px;
@@ -158,7 +152,6 @@ img {
   flex: 1 1 175px;
   margin: 10px;
 }
-
 .produtos-item h2 {
   font-size: 3em;
   color: #a4a4a4;
@@ -179,6 +172,7 @@ img {
 }
 
 /*Preco*/
+/*Preco*/
 .preco {
   background: #f7f7f7;
   padding: 60px;
@@ -193,14 +187,12 @@ img {
   padding: 20px;
   margin: 10px;
 }
-
 .preco-item h2 {
   font-size: 3em;
   color: #a4a4a4;
   text-align: center;
   margin-top: 20px;
 }
-
 .preco-item span {
   max-width: 300px;
   margin: 20px auto;
@@ -212,11 +204,6 @@ img {
   border-top: 4px solid white;
   border-bottom: 4px solid white;
 }
-
-.preco-item sup {
-  font-size: 1.5rem;
-}
-
 .preco-item ul {
   max-width: 300px;
   margin: 20px auto;
@@ -224,15 +211,13 @@ img {
   font-style: italic;
   color: #7c7c7c;
 }
-
-.preco-item li {
+.preco-item ul li {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 15px;
 }
-
-.preco-item li::after {
+.preco-item ul li::after {
   content: "";
   display: block;
   width: 6px;
@@ -240,7 +225,6 @@ img {
   background: #ff9642;
   border-radius: 50%;
 }
-
 .preco-item a {
   max-width: 300px;
   display: block;
@@ -252,6 +236,10 @@ img {
   font-size: 2.25em;
   padding: 15px 0;
   text-align: center;
+}
+
+.preco-item sup {
+  font-size: 1.5rem;
 }
 
 @media (max-width: 800px) {
