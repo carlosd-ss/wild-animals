@@ -67,6 +67,4 @@
 
 ## Related projects
 
-[💻 Smartech](https://github.com/carlosd-ss/smartech)
-
 [:briefcase: carlosd-ss.github.io](https://github.com/carlosd-ss/carlosd-ss.github.io)
