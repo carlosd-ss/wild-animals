@@ -29,7 +29,7 @@
 
 # Wolfbest
 
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/wolf.png" widht="400"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/wolfs.png" widht="400"> 
 
 
 
@@ -50,7 +50,7 @@
 
 # CssBlog
 
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/cssblog.png" widht="400"> 
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/cssblogs.png" widht="400"> 
 
 
 
