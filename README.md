@@ -27,12 +27,6 @@
 ```
 
 
-# Moments
-
-<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/moments.png" widht="400"> 
-
-
-
 
 # Wolfbest
 
@@ -44,6 +38,12 @@
 
 
 <img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/wild.png" widht="400"> 
+
+
+
+# Moments
+
+<img src="https://github.com/carlosd-ss/basic-ui/blob/master/.github/moments1.png" widht="400"> 
 
 
 
